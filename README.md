@@ -4,7 +4,7 @@ This repository contains the code for individual assignments of Operating system
 ## Assignments
 
 ```bash
-compilers_lab
+os_lab
 │   README.md
 │   LICENSE
 └───assignment1
